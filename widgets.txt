@@ -1,0 +1,24 @@
+Widget1
+partA 2
+partB 8
+partC 4
+
+Widget2
+partD 30
+partB 92
+
+Widget3
+partA 1
+partB 1000
+partC 500
+partD 450
+
+Widget4
+partA 49
+partC 100
+partD 97
+
+Widget5
+partA 10
+partD 20
+
